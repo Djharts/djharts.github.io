@@ -2,12 +2,11 @@
 
 The employment opportunity for Computer Science (CS), Information Technology and Software Engineering and Development (SE) related occupations is projected to grow much faster than the average of all other occupations. Therefore, increase in student enrollment, retention and graduation rate is becoming very important, so is the need for effective teaching in these subjects. Many universities commonly use formal, institutional Student Evaluation of Teaching (SET) systems to measure the teaching effectiveness. After each semester, through SET, students provide feedback and comments for their courses and instructors. However, evaluations are private and only a handful people have access to these. Therefore, these evaluations cannot be utilized to create a common understanding of the students’ expectations, perspective, desired characteristics of the courses and instructors. On the other hand, third party online platforms like RateMyProfessor.com (RMP) are public, solicit anonymous student feedback and host tremendous amount of data about the instructors and their courses. These platforms are also popular among students. We mined and analyzed the RMP data for some research questions, e.g.: What are the common characteristics of the popular CS instructors? How different are they for the SE instructors? Are there any examples of special characteristics, tools and techniques popular CS instructors use? We captured and analyzed more than 9,000 students’ comments for over 300 CS instructors for the top 20 universities in the U.S. and Canada. The paper contributes by presenting the findings for the research questions and making the data and the scripts available for public use for future research.
 
-### Markdown
+### Authors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/15611342/73597494-8d382080-44fa-11ea-801c-e0855ad6860c.png)
+![image](https://user-images.githubusercontent.com/15611342/73597498-96c18880-44fa-11ea-840c-f73378dd8b3d.png)
+![image](https://user-images.githubusercontent.com/15611342/73597503-9c1ed300-44fa-11ea-999d-1d1fb191497b.png)
 
 # Header 1
 ## Header 2

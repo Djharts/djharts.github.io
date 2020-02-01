@@ -5,9 +5,12 @@ The employment opportunity for Computer Science (CS), Information Technology and
 ### Authors
 
 
-![image](https://user-images.githubusercontent.com/15611342/73597536-f9b31f80-44fa-11ea-8dc5-9d59d3aa9fe6.png) Ishti
-![image](https://user-images.githubusercontent.com/15611342/73597541-06377800-44fb-11ea-8da4-450d9bf7621f.png) Aliaksei
-![image](https://user-images.githubusercontent.com/15611342/73597542-0899d200-44fb-11ea-95ff-6560a77b227a.png) Alec
+![image](https://user-images.githubusercontent.com/15611342/73597536-f9b31f80-44fa-11ea-8dc5-9d59d3aa9fe6.png) 
+Ishti
+![image](https://user-images.githubusercontent.com/15611342/73597541-06377800-44fb-11ea-8da4-450d9bf7621f.png) 
+Aliaksei
+![image](https://user-images.githubusercontent.com/15611342/73597542-0899d200-44fb-11ea-95ff-6560a77b227a.png) 
+Alec
 
 # Header 1
 ## Header 2
